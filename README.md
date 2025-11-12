@@ -2,6 +2,8 @@
 
 Welcome to my developer portfolio, a curated collection of projects, skills, and experiences that demonstrate my passion for building innovative software solutions. This portfolio is designed to provide a comprehensive overview of my abilities, showcasing my expertise in web development, AI/ML, and full-stack development.
 
+🔗 **Live Demo**: [https://portfolio-shivam-chaudhary-421316.vercel.app/](https://portfolio-shivam-chaudhary-421316.vercel.app/)
+
 ## Table of Contents
 
 - [Features](#features)
