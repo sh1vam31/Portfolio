@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'
 import { Code2, Palette, Rocket } from 'lucide-react'
+import Profile from '../assets/Profile.png'
 
 const About = () => {
   const ref = useRef(null)
@@ -49,7 +50,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl transform rotate-3"></div>
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"
+                src={Profile}
                 alt="Profile"
                 className="relative rounded-2xl shadow-xl w-full object-cover"
               />
