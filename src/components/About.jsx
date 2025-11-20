@@ -67,7 +67,7 @@ const About = () => {
               I'm currently pursuing a Bachelor of Science in Data Science at IIT Madras and a B.Tech in Computer Science (AI/ML) at Polaris School of Technology. I specialize in building intelligent AI-powered applications and full-stack web solutions using the MERN stack.
             </p>
             <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
-              As a Hacktoberfest 2024 Super Contributor, I'm passionate about open-source development, automation, and creating innovative solutions that bridge AI and real-world applications. I love turning complex problems into elegant, scalable solutions.
+              As a Hacktoberfest 2025 Super Contributor, I'm passionate about open-source development, automation, and creating innovative solutions that bridge AI and real-world applications. I love turning complex problems into elegant, scalable solutions.
             </p>
 
             <div className="grid sm:grid-cols-3 gap-4 pt-4">
