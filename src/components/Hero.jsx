@@ -70,7 +70,7 @@ const Hero = () => {
             transition={{ delay: 0.9 }}
           >
             <a
-              href="https://github.com/shivam31102004"
+              href="https://github.com/sh1vam31"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-200 dark:bg-gray-800 rounded-full hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"

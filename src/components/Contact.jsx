@@ -32,7 +32,7 @@ const Contact = () => {
     {
       icon: <Github size={24} />,
       name: "GitHub",
-      href: "https://github.com/shivam31102004",
+      href: "https://github.com/sh1vam31",
       color: "hover:text-gray-900 dark:hover:text-white"
     },
     {
