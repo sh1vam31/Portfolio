@@ -79,7 +79,7 @@ const Hero = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com/in/shivam-chaudhary-iitm"
+              href="https://www.linkedin.com/in/shivam-chaudhary-864ab1204/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-200 dark:bg-gray-800 rounded-full hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"

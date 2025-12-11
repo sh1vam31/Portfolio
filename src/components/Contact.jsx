@@ -38,7 +38,7 @@ const Contact = () => {
     {
       icon: <Linkedin size={24} />,
       name: "LinkedIn",
-      href: "https://linkedin.com/in/shivam-chaudhary-iitm",
+      href: "https://www.linkedin.com/in/shivam-chaudhary-864ab1204/",
       color: "hover:text-blue-600"
     },
     {
